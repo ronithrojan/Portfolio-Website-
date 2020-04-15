@@ -1,0 +1,17 @@
+/* Mobile Styles */
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.picture_container {
+  display: flex;
+  justify-content: center;
+}
+.propic {
+  background-image: url("src/assets/IMG_5868.jpg");
+  height: 200px;
+  width: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

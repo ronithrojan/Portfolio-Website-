@@ -1,0 +1,25 @@
+/* Mobile Styles */
+
+.nav {
+  background-color: navy;
+  padding: 10px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.links {
+  text-decoration: none;
+  color: azure;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  background-color: lightblue;
+  border-radius: 100%;
+  width: 5%;
+  padding: 5px;
+}
